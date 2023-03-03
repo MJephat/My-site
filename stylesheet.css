@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    text-decoration: o;
+    list-style: none;
+}
+body{
+    font-family: monospace;
+    background-color: blanchedalmond;
+}
+nav{
+    background-color: rgb(18, 148, 105);
+    height: 100px;
+    width: auto;
+}
+label.logo{
+    font-size: 60px;
+    color: blue;
+    text-align: left;
+    line-height: 100px;
+    font-weight: bold;
+    }
+
+nav ul{
+    float: right;
+    margin-right: 30px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 30px;
+    font-size: 25px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+nav ul li a{
+    color:rgb(24, 26, 29);
+    font-size: 17px;
+    text-transform: capitalize;
+}
+a.active,a:hover{
+    background-color: aliceblue;
+}
