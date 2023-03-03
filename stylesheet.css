@@ -41,3 +41,8 @@ nav ul li a{
 a.active,a:hover{
     background-color: aliceblue;
 }
+p{
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+}
